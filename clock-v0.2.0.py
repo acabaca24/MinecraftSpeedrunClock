@@ -1,11 +1,7 @@
-
-#simple minecraft clock
-
 from pynput import keyboard
 import sys
 from tkinter import *
 import time
-
 
 play_pause_keyboard_combo = [
 	{keyboard.Key.ctrl, keyboard.KeyCode(char='p')},
