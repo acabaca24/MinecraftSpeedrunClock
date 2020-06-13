@@ -1,5 +1,4 @@
 from pynput import keyboard
-import sys
 from tkinter import *
 import time
 
