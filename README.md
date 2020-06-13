@@ -1,4 +1,4 @@
-# minecraftSpeedrunClock
+# MinecraftSpeedrunClock
 
 A simple python cronometer for minecraft speedruns!
 
