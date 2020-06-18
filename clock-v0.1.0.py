@@ -1,3 +1,6 @@
+# This is an outdated version for the updated one go to:
+# https://github.com/acabaca24/MinecraftSpeedrunClock
+
 import sys
 from tkinter import *
 import time
